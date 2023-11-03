@@ -10,11 +10,14 @@ function App() {
         <p>
           MADAGASKARHAUS
         </p>
-        <a
+        <p
           className="App-link"
         >
           das Informations- und Reisezentrum für Madagaskar
-        </a>
+        </p>
+        <p>
+          2023
+        </p>
       </header>
     </div>
   );
